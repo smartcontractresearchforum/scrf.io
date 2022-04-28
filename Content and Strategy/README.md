@@ -1,2 +1,2 @@
-# scrf.io
-Landing site
+# Content and Strategy
+What is this folder all about?
