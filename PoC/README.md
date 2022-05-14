@@ -1,2 +1,0 @@
-# scrf.io
-Landing site
